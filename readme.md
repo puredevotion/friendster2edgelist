@@ -1,3 +1,7 @@
+WHATCH OUT!
+===========================
+This is under heavy development. It only works when you place the files in dedicated directories. Please use at your own risk!
+
 Friendster 2 Edgelist
 ===========================
 
